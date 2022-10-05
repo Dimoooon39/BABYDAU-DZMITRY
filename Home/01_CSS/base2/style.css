@@ -1,0 +1,22 @@
+.a {
+    font-family: 'Abyssinica SIL', serif;
+
+}
+p {
+    text-indent: 25px;
+    text-align: left;
+}
+h3 {
+    font-family: 'Abyssinica SIL', serif;
+    text-decoration:underline ;
+}
+.b {
+    text-align: right;
+}
+.n {
+    text-align: right;
+}
+div {
+    width: 740px;
+    margin: 120px;
+}
