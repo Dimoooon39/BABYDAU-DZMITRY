@@ -1,0 +1,9 @@
+@import "style.css";
+@import "print.css";
+p {
+    color: burlywood;
+}
+b {
+    font-style: italic;
+    font-size: 25px;
+}
