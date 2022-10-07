@@ -4,6 +4,7 @@
     background:grey;
     float: left;
     overflow:scroll;
+    padding-top: 0.1px;
 }
 .content {
     height: 250px;
@@ -11,6 +12,7 @@
     margin-bottom: 2px;
     background-image: url("navigation.c8d26ef6.png");
     background-position: 4px 275px;
+    padding-top: 0.1px;
 }
 .heder {
     background:grey;
