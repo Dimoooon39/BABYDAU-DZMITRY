@@ -1,0 +1,39 @@
+.a {
+    width: 145px;
+    height: 195px;
+    background: white;
+    background-image: url("cards.7e0a18f0.png");
+    float: left;
+}
+.b {
+    width: 145px;
+    height: 195px;
+    background: white;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: 286px 194px;
+    float: left;
+}
+.c {
+    width: 145px;
+    height: 195px;
+    background: white;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: 1000px -392px;
+    float: left;
+}
+.d {
+    width: 145px;
+    height: 195px;
+    background: white;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: 288px 592px;
+    float: left;
+}
+.f {
+    width: 145px;
+    height: 195px;
+    background: white;
+    background-image: url("cards.7e0a18f0.png");
+    background-position: 1000px 988px;
+    float: left;
+}
