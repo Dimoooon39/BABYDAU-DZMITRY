@@ -1,27 +1,27 @@
 .menu {
-    width: 150px;
-    height: 500px;
-    background:grey;
-    float: left;
-    overflow:scroll;
-    padding-top: 0.1em;
+    height: 504px;
+    width:15em;
+    background:ghostwhite;
+    padding-top: 0.4em;
+   float: left;
 }
-.content {
+.content_1 {
     height: 250px;
-    background:grey;
-    margin-bottom: 2px;
-    background-image: url("navigation.c8d26ef6.png");
-    background-position: 4px 275px;
-    padding-top: 0.1em;
+   background-color: navajowhite;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
 }
-.heder {
-    background:grey;
-    clear: left;
+.content_2 {
+    height: 250px;
+    background: honeydew;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
 }
-.item {
+.footer {
+    background:greenyellow;
+   clear: both;
+}
+img {
+    float: right;
+}
 
-    width: 100px;
-    background: green;
-    color: white;
-    overflow: auto;
-}
