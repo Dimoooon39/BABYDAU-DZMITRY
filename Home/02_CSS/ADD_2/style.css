@@ -1,0 +1,35 @@
+body {
+    display: flex;
+   flex-direction: row-reverse;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: stretch;
+}
+.menu {
+    height: 504px;
+    width:15em;
+    background:ghostwhite;
+    padding-top: 0.4em;
+    float: left;
+    flex-grow: revert;
+}
+.content_1 {
+    height: 250px;
+    background-color: navajowhite;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+.content_2 {
+    height: 250px;
+    background: honeydew;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
+    align-self: stretch;
+}
+.footer {
+    background:greenyellow;
+    clear: both;
+}
+img {
+    float: right;
+}
