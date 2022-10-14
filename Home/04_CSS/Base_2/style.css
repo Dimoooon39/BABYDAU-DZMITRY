@@ -1,0 +1,34 @@
+tbody tr:hover {
+    background-color: greenyellow;
+}
+.a {
+    background-color: grey;
+}
+.b td {
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+}
+.c td {
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+    background-color: beige;
+}
+.d td {
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+}
+.f td {
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+    background-color: beige;
+}
+.n td {
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+}
+td:last-child {
+    border-right-style: none;
+}
+
+
+
