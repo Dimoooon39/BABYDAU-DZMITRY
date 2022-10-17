@@ -3,3 +3,11 @@ div {
     border-radius: 0px 40px 0px 40px;
     padding: 7px;
 }
+.pic span {
+    visibility: hidden;
+    position: absolute;
+    left: 160px;
+}
+.pic:hover span {
+    visibility: visible;
+}
